@@ -1,35 +1,6 @@
 {
-  "firmware": {
-    "precious-time": {
-      "latest": "0.0.6",
-      "stable": "0.0.6",
-      "releases": {
-        "0.0.6": {
-          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/c293bffe-2682-46cd-a230-112c8d7ebace/v0.0.6/app.bin",
-          "size": 1601152,
-          "sha256": "80ab0c4dc8c55acecac82d6fe57844919604372003773d8d3a01a465f693209b"
-        },
-        "0.0.5": {
-          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/c293bffe-2682-46cd-a230-112c8d7ebace/v0.0.5/app.bin",
-          "size": 1520960,
-          "sha256": "d560c16a30fe7d42c10cb5b27df086be1ecf7de8e2cce9f82fec2ac1f052821c"
-        },
-        "0.0.4": {
-          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/c293bffe-2682-46cd-a230-112c8d7ebace/v0.0.4/app.bin",
-          "size": 1520880,
-          "sha256": "d40f4a1e89c2b8d529033c74e719c94be02675a50104f65dbd18a93406f296aa"
-        },
-        "0.0.3": {
-          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/c293bffe-2682-46cd-a230-112c8d7ebace/v0.0.3/app.bin",
-          "size": 1520800,
-          "sha256": "db2d0f956d33487d7e351c6b4eb4f469b228ce37db063efa8db91895d59f66ae"
-        },
-        "0.0.2": {
-          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/c293bffe-2682-46cd-a230-112c8d7ebace/0.0.2/app.bin",
-          "size": 1517376,
-          "sha256": "9a5aefd8f4093c438ae807535c242d95985feae2941c87e0b5e7f6ee3203cf4d"
-        }
-      }
-    }
-  }
+ user : [
+  
+ ],
+  Task : []
 }
